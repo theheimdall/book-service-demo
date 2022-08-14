@@ -46,7 +46,7 @@ public class Book {
 	}
 
 	@NotBlank
-	@Size(min = 0, max = 20)
+	@Size(min = 0, max = 50)
 	private String title;
 
 	@NotBlank
