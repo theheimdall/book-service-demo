@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-book-service
+    name: book-service-demo
   jpa:
     hibernate:
       ddl-auto: create
